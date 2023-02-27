@@ -1,0 +1,17 @@
+appdirs==1.4.4
+asgiref @ file:///opt/conda/conda-bld/asgiref_1661287532135/work
+babelfish==0.6.0
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+decorator==5.1.1
+Django @ file:///opt/conda/conda-bld/django_1661296381686/work
+dogpile.cache==1.1.8
+enzyme==0.4.1
+guessit==3.5.0
+pbr==5.11.1
+pysrt==1.1.2
+python-dotenv==1.0.0
+rarfile==4.0
+rebulk==3.1.0
+sqlparse @ file:///croot/sqlparse_1668793487206/work
+stevedore==4.1.1
+subliminal==2.1.0
